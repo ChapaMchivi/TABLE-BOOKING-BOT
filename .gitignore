@@ -1,0 +1,27 @@
+# -----------------------------------------
+# n8n Project – Git Ignore Configuration
+# -----------------------------------------
+
+# Prevent exported credentials from ever being committed
+.credentials
+
+# Environment variables (API keys, secrets)
+.env
+
+# Node dependencies (if you ever add custom nodes or scripts)
+node_modules/
+
+# VS Code workspace settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+
+# OS-specific trash folders
+Thumbs.db
+
