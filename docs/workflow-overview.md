@@ -293,7 +293,7 @@ The Table Booking Bot is a fully automated reservation assistant built with n8n.
 
 ---
 
-# **README.md (GitHub‑Ready)**
+# **README.md**
 
 ```markdown
 # Table Booking Bot (n8n + Gemini)
