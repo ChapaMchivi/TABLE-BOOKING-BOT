@@ -34,8 +34,6 @@ This keeps your repo clean and ensures **no sensitive data** ever ends up on Git
 ---
 
 # **Setup Instructions (Add to Your README)**  
-Here is a polished, ready‑to‑paste section for your README that explains how to safely reconnect credentials when someone imports your workflow.
-
 ---
 
 ## Setup Instructions: Connecting Your Own Credentials
